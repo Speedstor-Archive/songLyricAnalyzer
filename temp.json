@@ -1,0 +1,1222 @@
+{
+    "White Christmas": {
+        "wordUsed": {
+            "your": 6,
+            "white": 6,
+            "be": 6,
+            "the": 4,
+            "may": 4,
+            "and": 4,
+            "of": 3,
+            "merry": 3,
+            "dreaming": 3,
+            "days": 3,
+            "bright\r": 3,
+            "all": 3,
+            "a": 3,
+            "I'm": 3,
+            "I": 3,
+            "Christmases": 3,
+            "Christmas\r": 3,
+            "And": 3,
+            "used": 2,
+            "to": 2,
+            "ones": 2,
+            "like": 2,
+            "know\r": 2,
+            "May": 2,
+            "Just": 2,
+            "write\r": 1,
+            "tree": 1,
+            "tops": 1,
+            "snow": 1,
+            "sleigh": 1,
+            "listen\r": 1,
+            "in": 1,
+            "hear": 1,
+            "glisten": 1,
+            "every": 1,
+            "children": 1,
+            "card": 1,
+            "bells": 1,
+            "With": 1,
+            "Where": 1,
+            "To": 1,
+            "So": 1,
+            "Christmas": 1
+        },
+        "syllablePos": {
+            "snoh": 87.5,
+            "white": 80.19674085850556,
+            "": 80.00765155090753,
+            "drun": 66.66666666666666,
+            "chil": 66.66666666666666,
+            "be": 65.88831478537361,
+            "in": 65.625,
+            "used": 61.76470588235294,
+            "kahrd": 61.76470588235294,
+            "I": 61.029411764705884,
+            "to": 57.35294117647059,
+            "mer": 51.013513513513516,
+            "ee": 51.013513513513516,
+            "belz": 46.875,
+            "es": 45.94594594594595,
+            "mas": 44.246820349761535,
+            "Krist": 44.246820349761535,
+            "un": 41.66666666666667,
+            "glis": 41.66666666666667,
+            "ones": 41.17647058823529,
+            "thuh": 38.69485294117647,
+            "of": 38.23529411764706,
+            "tops": 31.25,
+            "days": 27.9610492845787,
+            "your": 25.775039745627982,
+            "sley": 25.0,
+            "and": 23.272100225225227,
+            "awl": 21.62162162162162,
+            "tree": 20.833333333333336,
+            "A": 20.588235294117645,
+            "ree": 14.705882352941178,
+            "lahyk": 14.705882352941178,
+            "ev": 14.705882352941178,
+            "ing": 11.76470588235294,
+            "dream": 11.76470588235294,
+            "heer": 9.375,
+            "mey": 7.601351351351351,
+            "with": 0.0,
+            "where": 0.0,
+            "soh": 0.0,
+            "m": 0.0,
+            "juhst": 0.0,
+            "eye": 0.0
+        },
+        "syllablesFreqPos": [
+            [
+                2,
+                1,
+                0.0
+            ],
+            [
+                2,
+                1,
+                11.76470588235294
+            ],
+            [
+                1,
+                1,
+                38.23529411764706
+            ],
+            [
+                1,
+                1,
+                20.588235294117645
+            ],
+            [
+                1,
+                1,
+                52.94117647058824
+            ],
+            [
+                0,
+                1,
+                70.58823529411765
+            ],
+            [
+                1,
+                1,
+                0.0
+            ],
+            [
+                1,
+                1,
+                14.705882352941178
+            ],
+            [
+                1,
+                1,
+                29.411764705882355
+            ],
+            [
+                1,
+                1,
+                41.17647058823529
+            ],
+            [
+                1,
+                1,
+                55.88235294117647
+            ],
+            [
+                1,
+                1,
+                61.76470588235294
+            ],
+            [
+                1,
+                1,
+                76.47058823529412
+            ],
+            [
+                0,
+                1,
+                85.29411764705883
+            ],
+            [
+                1,
+                1,
+                0.0
+            ],
+            [
+                1,
+                2,
+                12.5
+            ],
+            [
+                1,
+                1,
+                20.833333333333336
+            ],
+            [
+                1,
+                1,
+                31.25
+            ],
+            [
+                2,
+                1,
+                41.66666666666667
+            ],
+            [
+                1,
+                1,
+                58.333333333333336
+            ],
+            [
+                2,
+                1,
+                66.66666666666666
+            ],
+            [
+                0,
+                1,
+                85.41666666666666
+            ],
+            [
+                1,
+                1,
+                0.0
+            ],
+            [
+                1,
+                1,
+                9.375
+            ],
+            [
+                1,
+                1,
+                25.0
+            ],
+            [
+                1,
+                1,
+                46.875
+            ],
+            [
+                1,
+                1,
+                65.625
+            ],
+            [
+                1,
+                3,
+                75.0
+            ],
+            [
+                1,
+                1,
+                87.5
+            ],
+            [
+                2,
+                2,
+                0.0
+            ],
+            [
+                2,
+                2,
+                11.76470588235294
+            ],
+            [
+                1,
+                2,
+                38.23529411764706
+            ],
+            [
+                1,
+                2,
+                20.588235294117645
+            ],
+            [
+                1,
+                2,
+                52.94117647058824
+            ],
+            [
+                0,
+                2,
+                70.58823529411765
+            ],
+            [
+                1,
+                1,
+                0.0
+            ],
+            [
+                2,
+                1,
+                14.705882352941178
+            ],
+            [
+                2,
+                1,
+                32.35294117647059
+            ],
+            [
+                1,
+                1,
+                61.76470588235294
+            ],
+            [
+                1,
+                2,
+                76.47058823529412
+            ],
+            [
+                0,
+                1,
+                82.35294117647058
+            ],
+            [
+                1,
+                1,
+                0.0
+            ],
+            [
+                1,
+                1,
+                11.76470588235294
+            ],
+            [
+                1,
+                1,
+                26.47058823529412
+            ],
+            [
+                1,
+                1,
+                41.17647058823529
+            ],
+            [
+                2,
+                1,
+                50.0
+            ],
+            [
+                1,
+                2,
+                67.64705882352942
+            ],
+            [
+                0,
+                1,
+                79.41176470588235
+            ],
+            [
+                1,
+                1,
+                0.0
+            ],
+            [
+                1,
+                1,
+                10.81081081081081
+            ],
+            [
+                1,
+                1,
+                21.62162162162162
+            ],
+            [
+                1,
+                2,
+                32.432432432432435
+            ],
+            [
+                3,
+                1,
+                45.94594594594595
+            ],
+            [
+                1,
+                2,
+                78.37837837837837
+            ],
+            [
+                1,
+                3,
+                86.48648648648648
+            ],
+            [
+                2,
+                3,
+                0.0
+            ],
+            [
+                2,
+                3,
+                11.76470588235294
+            ],
+            [
+                1,
+                3,
+                38.23529411764706
+            ],
+            [
+                1,
+                3,
+                20.588235294117645
+            ],
+            [
+                1,
+                4,
+                52.94117647058824
+            ],
+            [
+                0,
+                3,
+                70.58823529411765
+            ],
+            [
+                1,
+                2,
+                0.0
+            ],
+            [
+                1,
+                2,
+                14.705882352941178
+            ],
+            [
+                1,
+                4,
+                29.411764705882355
+            ],
+            [
+                1,
+                2,
+                41.17647058823529
+            ],
+            [
+                1,
+                3,
+                55.88235294117647
+            ],
+            [
+                1,
+                2,
+                61.76470588235294
+            ],
+            [
+                1,
+                2,
+                76.47058823529412
+            ],
+            [
+                0,
+                2,
+                85.29411764705883
+            ],
+            [
+                1,
+                1,
+                0.0
+            ],
+            [
+                1,
+                2,
+                8.108108108108109
+            ],
+            [
+                1,
+                3,
+                18.91891891891892
+            ],
+            [
+                1,
+                2,
+                32.432432432432435
+            ],
+            [
+                1,
+                3,
+                45.94594594594595
+            ],
+            [
+                2,
+                2,
+                54.054054054054056
+            ],
+            [
+                1,
+                3,
+                70.27027027027027
+            ],
+            [
+                0,
+                2,
+                81.08108108108108
+            ],
+            [
+                1,
+                2,
+                0.0
+            ],
+            [
+                1,
+                3,
+                10.81081081081081
+            ],
+            [
+                1,
+                2,
+                21.62162162162162
+            ],
+            [
+                1,
+                4,
+                32.432432432432435
+            ],
+            [
+                3,
+                2,
+                45.94594594594595
+            ],
+            [
+                1,
+                4,
+                78.37837837837837
+            ],
+            [
+                1,
+                5,
+                86.48648648648648
+            ],
+            [
+                1,
+                2,
+                0.0
+            ],
+            [
+                1,
+                5,
+                11.76470588235294
+            ],
+            [
+                1,
+                3,
+                26.47058823529412
+            ],
+            [
+                1,
+                5,
+                41.17647058823529
+            ],
+            [
+                2,
+                3,
+                50.0
+            ],
+            [
+                1,
+                4,
+                67.64705882352942
+            ],
+            [
+                0,
+                3,
+                79.41176470588235
+            ],
+            [
+                1,
+                3,
+                0.0
+            ],
+            [
+                1,
+                4,
+                10.81081081081081
+            ],
+            [
+                1,
+                3,
+                21.62162162162162
+            ],
+            [
+                1,
+                6,
+                32.432432432432435
+            ],
+            [
+                3,
+                3,
+                45.94594594594595
+            ],
+            [
+                1,
+                6,
+                78.37837837837837
+            ],
+            [
+                1,
+                6,
+                86.48648648648648
+            ]
+        ],
+        "freqPos": [
+            [
+                1,
+                0.0
+            ],
+            [
+                1,
+                11.76470588235294
+            ],
+            [
+                1,
+                38.23529411764706
+            ],
+            [
+                1,
+                20.588235294117645
+            ],
+            [
+                1,
+                52.94117647058824
+            ],
+            [
+                1,
+                70.58823529411765
+            ],
+            [
+                1,
+                0.0
+            ],
+            [
+                1,
+                14.705882352941178
+            ],
+            [
+                1,
+                29.411764705882355
+            ],
+            [
+                1,
+                41.17647058823529
+            ],
+            [
+                1,
+                55.88235294117647
+            ],
+            [
+                1,
+                61.76470588235294
+            ],
+            [
+                1,
+                76.47058823529412
+            ],
+            [
+                1,
+                85.29411764705883
+            ],
+            [
+                1,
+                0.0
+            ],
+            [
+                2,
+                12.5
+            ],
+            [
+                1,
+                20.833333333333336
+            ],
+            [
+                1,
+                31.25
+            ],
+            [
+                1,
+                41.66666666666667
+            ],
+            [
+                1,
+                58.333333333333336
+            ],
+            [
+                1,
+                66.66666666666666
+            ],
+            [
+                1,
+                85.41666666666666
+            ],
+            [
+                1,
+                0.0
+            ],
+            [
+                1,
+                9.375
+            ],
+            [
+                1,
+                25.0
+            ],
+            [
+                1,
+                46.875
+            ],
+            [
+                1,
+                65.625
+            ],
+            [
+                3,
+                75.0
+            ],
+            [
+                1,
+                87.5
+            ],
+            [
+                2,
+                0.0
+            ],
+            [
+                2,
+                11.76470588235294
+            ],
+            [
+                2,
+                38.23529411764706
+            ],
+            [
+                2,
+                20.588235294117645
+            ],
+            [
+                2,
+                52.94117647058824
+            ],
+            [
+                2,
+                70.58823529411765
+            ],
+            [
+                1,
+                0.0
+            ],
+            [
+                1,
+                14.705882352941178
+            ],
+            [
+                1,
+                32.35294117647059
+            ],
+            [
+                1,
+                61.76470588235294
+            ],
+            [
+                2,
+                76.47058823529412
+            ],
+            [
+                1,
+                82.35294117647058
+            ],
+            [
+                1,
+                0.0
+            ],
+            [
+                1,
+                11.76470588235294
+            ],
+            [
+                1,
+                26.47058823529412
+            ],
+            [
+                1,
+                41.17647058823529
+            ],
+            [
+                1,
+                50.0
+            ],
+            [
+                2,
+                67.64705882352942
+            ],
+            [
+                1,
+                79.41176470588235
+            ],
+            [
+                1,
+                0.0
+            ],
+            [
+                1,
+                10.81081081081081
+            ],
+            [
+                1,
+                21.62162162162162
+            ],
+            [
+                2,
+                32.432432432432435
+            ],
+            [
+                1,
+                45.94594594594595
+            ],
+            [
+                2,
+                78.37837837837837
+            ],
+            [
+                3,
+                86.48648648648648
+            ],
+            [
+                3,
+                0.0
+            ],
+            [
+                3,
+                11.76470588235294
+            ],
+            [
+                3,
+                38.23529411764706
+            ],
+            [
+                3,
+                20.588235294117645
+            ],
+            [
+                4,
+                52.94117647058824
+            ],
+            [
+                3,
+                70.58823529411765
+            ],
+            [
+                2,
+                0.0
+            ],
+            [
+                2,
+                14.705882352941178
+            ],
+            [
+                4,
+                29.411764705882355
+            ],
+            [
+                2,
+                41.17647058823529
+            ],
+            [
+                3,
+                55.88235294117647
+            ],
+            [
+                2,
+                61.76470588235294
+            ],
+            [
+                2,
+                76.47058823529412
+            ],
+            [
+                2,
+                85.29411764705883
+            ],
+            [
+                1,
+                0.0
+            ],
+            [
+                2,
+                8.108108108108109
+            ],
+            [
+                3,
+                18.91891891891892
+            ],
+            [
+                2,
+                32.432432432432435
+            ],
+            [
+                3,
+                45.94594594594595
+            ],
+            [
+                2,
+                54.054054054054056
+            ],
+            [
+                3,
+                70.27027027027027
+            ],
+            [
+                2,
+                81.08108108108108
+            ],
+            [
+                2,
+                0.0
+            ],
+            [
+                3,
+                10.81081081081081
+            ],
+            [
+                2,
+                21.62162162162162
+            ],
+            [
+                4,
+                32.432432432432435
+            ],
+            [
+                2,
+                45.94594594594595
+            ],
+            [
+                4,
+                78.37837837837837
+            ],
+            [
+                5,
+                86.48648648648648
+            ],
+            [
+                2,
+                0.0
+            ],
+            [
+                5,
+                11.76470588235294
+            ],
+            [
+                3,
+                26.47058823529412
+            ],
+            [
+                5,
+                41.17647058823529
+            ],
+            [
+                3,
+                50.0
+            ],
+            [
+                4,
+                67.64705882352942
+            ],
+            [
+                3,
+                79.41176470588235
+            ],
+            [
+                3,
+                0.0
+            ],
+            [
+                4,
+                10.81081081081081
+            ],
+            [
+                3,
+                21.62162162162162
+            ],
+            [
+                6,
+                32.432432432432435
+            ],
+            [
+                3,
+                45.94594594594595
+            ],
+            [
+                6,
+                78.37837837837837
+            ],
+            [
+                6,
+                86.48648648648648
+            ]
+        ]
+    },
+    "Taylor Swift": {
+        "Tim McGraw": "https://www.azlyrics.com/lyrics/taylorswift/timmcgraw.html",
+        "Picture To Burn": "https://www.azlyrics.com/lyrics/taylorswift/picturetoburn.html",
+        "Teardrops On My Guitar": "https://www.azlyrics.com/lyrics/taylorswift/teardropsonmyguitar.html",
+        "A Place In This World": "https://www.azlyrics.com/lyrics/taylorswift/aplaceinthisworld.html",
+        "Cold As You": "https://www.azlyrics.com/lyrics/taylorswift/coldasyou.html",
+        "The Outside": "https://www.azlyrics.com/lyrics/taylorswift/theoutside.html",
+        "Tied Together With A Smile": "https://www.azlyrics.com/lyrics/taylorswift/tiedtogetherwithasmile.html",
+        "Stay Beautiful": "https://www.azlyrics.com/lyrics/taylorswift/staybeautiful.html",
+        "Should've Said No": "https://www.azlyrics.com/lyrics/taylorswift/shouldvesaidno.html",
+        "Mary's Song (Oh My My My)": "https://www.azlyrics.com/lyrics/taylorswift/maryssongohmymymy.html",
+        "Our Song": "https://www.azlyrics.com/lyrics/taylorswift/oursong.html",
+        "I'm Only Me When I'm With You": "https://www.azlyrics.com/lyrics/taylorswift/imonlymewhenimwithyou.html",
+        "Invisible": "https://www.azlyrics.com/lyrics/taylorswift/invisible.html",
+        "A Perfectly Good Heart": "https://www.azlyrics.com/lyrics/taylorswift/aperfectlygoodheart.html",
+        "Last Christmas": "https://www.azlyrics.com/lyrics/taylorswift/lastchristmas.html",
+        "Christmases When You Were Mine": "https://www.azlyrics.com/lyrics/taylorswift/christmaseswhenyouweremine.html",
+        "Santa Baby": "https://www.azlyrics.com/lyrics/taylorswift/santababy.html",
+        "Silent Night": "https://www.azlyrics.com/lyrics/taylorswift/silentnight.html",
+        "Christmas Must Be Something More": "https://www.azlyrics.com/lyrics/taylorswift/christmasmustbesomethingmore.html",
+        "White Christmas": "https://www.azlyrics.com/lyrics/taylorswift/whitechristmas.html",
+        "Jump Then Fall": "https://www.azlyrics.com/lyrics/taylorswift/jumpthenfall.html",
+        "Untouchable": "https://www.azlyrics.com/lyrics/taylorswift/untouchable.html",
+        "Forever & Always (Piano Version)": "https://www.azlyrics.com/lyrics/taylorswift/foreveralwayspianoversion.html",
+        "Come In With The Rain": "https://www.azlyrics.com/lyrics/taylorswift/comeinwiththerain.html",
+        "Superstar": "https://www.azlyrics.com/lyrics/taylorswift/superstar.html",
+        "The Other Side Of The Door": "https://www.azlyrics.com/lyrics/taylorswift/theothersideofthedoor.html",
+        "Fearless": "https://www.azlyrics.com/lyrics/taylorswift/fearless.html",
+        "Fifteen": "https://www.azlyrics.com/lyrics/taylorswift/fifteen.html",
+        "Love Story": "https://www.azlyrics.com/lyrics/taylorswift/lovestory.html",
+        "Hey Stephen": "https://www.azlyrics.com/lyrics/taylorswift/heystephen.html",
+        "White Horse": "https://www.azlyrics.com/lyrics/taylorswift/whitehorse.html",
+        "You Belong With Me": "https://www.azlyrics.com/lyrics/taylorswift/youbelongwithme.html",
+        "Breathe": "https://www.azlyrics.com/lyrics/taylorswift/breathe.html",
+        "Tell Me Why": "https://www.azlyrics.com/lyrics/taylorswift/tellmewhy.html",
+        "You're Not Sorry": "https://www.azlyrics.com/lyrics/taylorswift/yourenotsorry.html",
+        "The Way I Loved You": "https://www.azlyrics.com/lyrics/taylorswift/thewayilovedyou.html",
+        "Forever & Always": "https://www.azlyrics.com/lyrics/taylorswift/foreveralways.html",
+        "The Best Day": "https://www.azlyrics.com/lyrics/taylorswift/thebestday.html",
+        "Change": "https://www.azlyrics.com/lyrics/taylorswift/change.html",
+        "Mine": "https://www.azlyrics.com/lyrics/taylorswift/mine.html",
+        "Sparks Fly": "https://www.azlyrics.com/lyrics/taylorswift/sparksfly.html",
+        "Back To December": "https://www.azlyrics.com/lyrics/taylorswift/backtodecember.html",
+        "Speak Now": "https://www.azlyrics.com/lyrics/taylorswift/speaknow.html",
+        "Dear John": "https://www.azlyrics.com/lyrics/taylorswift/dearjohn.html",
+        "Mean": "https://www.azlyrics.com/lyrics/taylorswift/mean.html",
+        "The Story Of Us": "https://www.azlyrics.com/lyrics/taylorswift/thestoryofus.html",
+        "Never Grow Up": "https://www.azlyrics.com/lyrics/taylorswift/nevergrowup.html",
+        "Enchanted": "https://www.azlyrics.com/lyrics/taylorswift/enchanted.html",
+        "Better Than Revenge": "https://www.azlyrics.com/lyrics/taylorswift/betterthanrevenge.html",
+        "Innocent": "https://www.azlyrics.com/lyrics/taylorswift/innocent.html",
+        "Haunted": "https://www.azlyrics.com/lyrics/taylorswift/haunted.html",
+        "Last Kiss": "https://www.azlyrics.com/lyrics/taylorswift/lastkiss.html",
+        "Long Live": "https://www.azlyrics.com/lyrics/taylorswift/longlive.html",
+        "Ours": "https://www.azlyrics.com/lyrics/taylorswift/ours.html",
+        "If This Was A Movie": "https://www.azlyrics.com/lyrics/taylorswift/ifthiswasamovie.html",
+        "Superman": "https://www.azlyrics.com/lyrics/taylorswift/superman.html",
+        "State Of Grace": "https://www.azlyrics.com/lyrics/taylorswift/stateofgrace.html",
+        "Red": "https://www.azlyrics.com/lyrics/taylorswift/red.html",
+        "Treacherous": "https://www.azlyrics.com/lyrics/taylorswift/treacherous.html",
+        "I Knew You Were Trouble": "https://www.azlyrics.com/lyrics/taylorswift/iknewyouweretrouble.html",
+        "All Too Well": "https://www.azlyrics.com/lyrics/taylorswift/alltoowell.html",
+        "22": "https://www.azlyrics.com/lyrics/taylorswift/22.html",
+        "I Almost Do": "https://www.azlyrics.com/lyrics/taylorswift/ialmostdo.html",
+        "We Are Never Ever Getting Back Together": "https://www.azlyrics.com/lyrics/taylorswift/weareneverevergettingbacktogether.html",
+        "Stay Stay Stay": "https://www.azlyrics.com/lyrics/taylorswift/staystaystay.html",
+        "The Last Time": "https://www.azlyrics.com/lyrics/taylorswift/thelasttime.html",
+        "Holy Ground": "https://www.azlyrics.com/lyrics/taylorswift/holyground.html",
+        "Sad Beautiful Tragic": "https://www.azlyrics.com/lyrics/taylorswift/sadbeautifultragic.html",
+        "The Lucky One": "https://www.azlyrics.com/lyrics/taylorswift/theluckyone.html",
+        "Everything Has Changed": "https://www.azlyrics.com/lyrics/taylorswift/everythinghaschanged.html",
+        "Starlight": "https://www.azlyrics.com/lyrics/taylorswift/starlight.html",
+        "Begin Again": "https://www.azlyrics.com/lyrics/taylorswift/beginagain.html",
+        "The Moment I Knew": "https://www.azlyrics.com/lyrics/taylorswift/themomentiknew.html",
+        "Come Back... Be Here": "https://www.azlyrics.com/lyrics/taylorswift/comebackbehere.html",
+        "Girl At Home": "https://www.azlyrics.com/lyrics/taylorswift/girlathome.html",
+        "Welcome To New York": "https://www.azlyrics.com/lyrics/taylorswift/welcometonewyork.html",
+        "Blank Space": "https://www.azlyrics.com/lyrics/taylorswift/blankspace.html",
+        "Style": "https://www.azlyrics.com/lyrics/taylorswift/style.html",
+        "Out Of The Woods": "https://www.azlyrics.com/lyrics/taylorswift/outofthewoods.html",
+        "All You Had To Do Was Stay": "https://www.azlyrics.com/lyrics/taylorswift/allyouhadtodowasstay.html",
+        "Shake It Off": "https://www.azlyrics.com/lyrics/taylorswift/shakeitoff.html",
+        "I Wish You Would": "https://www.azlyrics.com/lyrics/taylorswift/iwishyouwould.html",
+        "Bad Blood": "https://www.azlyrics.com/lyrics/taylorswift/badblood.html",
+        "Wildest Dreams": "https://www.azlyrics.com/lyrics/taylorswift/wildestdreams.html",
+        "How You Get The Girl": "https://www.azlyrics.com/lyrics/taylorswift/howyougetthegirl.html",
+        "This Love": "https://www.azlyrics.com/lyrics/taylorswift/thislove.html",
+        "I Know Places": "https://www.azlyrics.com/lyrics/taylorswift/iknowplaces.html",
+        "Clean": "https://www.azlyrics.com/lyrics/taylorswift/clean.html",
+        "Wonderland": "https://www.azlyrics.com/lyrics/taylorswift/wonderland.html",
+        "You Are In Love": "https://www.azlyrics.com/lyrics/taylorswift/youareinlove.html",
+        "New Romantics": "https://www.azlyrics.com/lyrics/taylorswift/newromantics.html",
+        "...Ready For It?": "https://www.azlyrics.com/lyrics/taylorswift/readyforit.html",
+        "End Game": "https://www.azlyrics.com/lyrics/taylorswift/endgame.html",
+        "I Did Something Bad": "https://www.azlyrics.com/lyrics/taylorswift/ididsomethingbad.html",
+        "Don't Blame Me": "https://www.azlyrics.com/lyrics/taylorswift/dontblameme.html",
+        "Delicate": "https://www.azlyrics.com/lyrics/taylorswift/delicate.html",
+        "Look What You Made Me Do": "https://www.azlyrics.com/lyrics/taylorswift/lookwhatyoumademedo-video.html",
+        "So It Goes...": "https://www.azlyrics.com/lyrics/taylorswift/soitgoes.html",
+        "Gorgeous": "https://www.azlyrics.com/lyrics/taylorswift/gorgeous.html",
+        "Getaway Car": "https://www.azlyrics.com/lyrics/taylorswift/getawaycar.html",
+        "King Of My Heart": "https://www.azlyrics.com/lyrics/taylorswift/kingofmyheart.html",
+        "Dancing With Our Hands Tied": "https://www.azlyrics.com/lyrics/taylorswift/dancingwithourhandstied.html",
+        "Dress": "https://www.azlyrics.com/lyrics/taylorswift/dress.html",
+        "This Is Why We Can't Have Nice Things": "https://www.azlyrics.com/lyrics/taylorswift/thisiswhywecanthavenicethings.html",
+        "Call It What You Want": "https://www.azlyrics.com/lyrics/taylorswift/callitwhatyouwant.html",
+        "New Year's Day": "https://www.azlyrics.com/lyrics/taylorswift/newyearsday.html",
+        "I Forgot That You Existed": "https://www.azlyrics.com/lyrics/taylorswift/iforgotthatyouexisted.html",
+        "Cruel Summer": "https://www.azlyrics.com/lyrics/taylorswift/cruelsummer.html",
+        "Lover": "https://www.azlyrics.com/lyrics/taylorswift/lover.html",
+        "The Man": "https://www.azlyrics.com/lyrics/taylorswift/theman.html",
+        "The Archer": "https://www.azlyrics.com/lyrics/taylorswift/thearcher.html",
+        "I Think He Knows": "https://www.azlyrics.com/lyrics/taylorswift/ithinkheknows.html",
+        "Miss Americana & The Heartbreak Prince": "https://www.azlyrics.com/lyrics/taylorswift/missamericanatheheartbreakprince.html",
+        "Paper Rings": "https://www.azlyrics.com/lyrics/taylorswift/paperrings.html",
+        "Cornelia Street": "https://www.azlyrics.com/lyrics/taylorswift/corneliastreet.html",
+        "Death By A Thousand Cuts": "https://www.azlyrics.com/lyrics/taylorswift/deathbyathousandcuts.html",
+        "London Boy": "https://www.azlyrics.com/lyrics/taylorswift/londonboy.html",
+        "Soon You'll Get Better": "https://www.azlyrics.com/lyrics/taylorswift/soonyoullgetbetter.html",
+        "False God": "https://www.azlyrics.com/lyrics/taylorswift/falsegod.html",
+        "You Need To Calm Down": "https://www.azlyrics.com/lyrics/taylorswift/youneedtocalmdown.html",
+        "Afterglow": "https://www.azlyrics.com/lyrics/taylorswift/afterglow.html",
+        "ME!": "https://www.azlyrics.com/lyrics/taylorswift/me.html",
+        "It's Nice To Have A Friend": "https://www.azlyrics.com/lyrics/taylorswift/itsnicetohaveafriend.html",
+        "Daylight": "https://www.azlyrics.com/lyrics/taylorswift/daylight.html",
+        "...Ready For It? (BloodpopÂ® Remix)": "https://www.azlyrics.com/lyrics/taylorswift/readyforitbloodpopremix.html",
+        "Ain't Nothing 'Bout You": "https://www.azlyrics.com/lyrics/taylorswift/aintnothingboutyou.html",
+        "All Because Of Ellen": "https://www.azlyrics.com/lyrics/taylorswift/allbecauseofellen.html",
+        "All Night Diner": "https://www.azlyrics.com/lyrics/taylorswift/allnightdiner.html",
+        "Am I Ready For Love": "https://www.azlyrics.com/lyrics/taylorswift/amireadyforlove.html",
+        "American Boy": "https://www.azlyrics.com/lyrics/taylorswift/americanboy.html",
+        "American Girl": "https://www.azlyrics.com/lyrics/taylorswift/americangirl.html",
+        "Angelina": "https://www.azlyrics.com/lyrics/taylorswift/angelina.html",
+        "Baby, Don't You Break My Heart Slow": "https://www.azlyrics.com/lyrics/taylorswift/babydontyoubreakmyheartslow.html",
+        "Back To December / Apologize / You're Not Sorry": "https://www.azlyrics.com/lyrics/taylorswift/backtodecemberapologizeyourenotsorry.html",
+        "Bad Blood (Remix)": "https://www.azlyrics.com/lyrics/taylorswift/badbloodremix.html",
+        "Beautiful Eyes": "https://www.azlyrics.com/lyrics/taylorswift/beautifuleyes.html",
+        "Beautiful Ghosts": "https://www.azlyrics.com/lyrics/taylorswift/beautifulghosts.html",
+        "Being With My Baby": "https://www.azlyrics.com/lyrics/taylorswift/beingwithmybaby.html",
+        "Bette Davis Eyes": "https://www.azlyrics.com/lyrics/taylorswift/bettedaviseyes.html",
+        "Better Off": "https://www.azlyrics.com/lyrics/taylorswift/betteroff.html",
+        "Brand New World": "https://www.azlyrics.com/lyrics/taylorswift/brandnewworld.html",
+        "Breathless": "https://www.azlyrics.com/lyrics/taylorswift/breathless.html",
+        "Brought Up That Way": "https://www.azlyrics.com/lyrics/taylorswift/broughtupthatway.html",
+        "By The Way": "https://www.azlyrics.com/lyrics/taylorswift/bytheway.html",
+        "Can I Go With You": "https://www.azlyrics.com/lyrics/taylorswift/canigowithyou.html",
+        "Can't Stop Loving You": "https://www.azlyrics.com/lyrics/taylorswift/cantstoplovingyou.html",
+        "Check Out This View": "https://www.azlyrics.com/lyrics/taylorswift/checkoutthisview.html",
+        "Christmas Tree Farm": "https://www.azlyrics.com/lyrics/taylorswift/christmastreefarm.html",
+        "Closest To A Cowboy": "https://www.azlyrics.com/lyrics/taylorswift/closesttoacowboy.html",
+        "Crazier": "https://www.azlyrics.com/lyrics/taylorswift/crazier.html",
+        "Cross My Heart": "https://www.azlyrics.com/lyrics/taylorswift/crossmyheart.html",
+        "Dark Blue Tennessee": "https://www.azlyrics.com/lyrics/taylorswift/darkbluetennessee.html",
+        "Didn't They": "https://www.azlyrics.com/lyrics/taylorswift/didntthey.html",
+        "Don't Hate Me For Loving You": "https://www.azlyrics.com/lyrics/taylorswift/donthatemeforlovingyou.html",
+        "Down Came The Rain": "https://www.azlyrics.com/lyrics/taylorswift/downcametherain.html",
+        "Drops Of Jupiter": "https://www.azlyrics.com/lyrics/taylorswift/dropsofjupiter.html",
+        "Eyes Open": "https://www.azlyrics.com/lyrics/taylorswift/eyesopen.html",
+        "Fall Back On You": "https://www.azlyrics.com/lyrics/taylorswift/fallbackonyou.html",
+        "Firefly": "https://www.azlyrics.com/lyrics/taylorswift/firefly.html",
+        "For You": "https://www.azlyrics.com/lyrics/taylorswift/foryou.html",
+        "Gracie": "https://www.azlyrics.com/lyrics/taylorswift/gracie.html",
+        "Honey Baby": "https://www.azlyrics.com/lyrics/taylorswift/honeybaby.html",
+        "Hopelessly Devoted To You": "https://www.azlyrics.com/lyrics/taylorswift/hopelesslydevotedtoyou.html",
+        "I Don't Wanna Live Forever": "https://www.azlyrics.com/ps://www.azlyrics.com/lyrics/zaynmalik/idontwannaliveforever.html",
+        "I Heart ?": "https://www.azlyrics.com/lyrics/taylorswift/iheart.html",
+        "I Knew You Were Trouble (Remix)": "https://www.azlyrics.com/lyrics/taylorswift/iknewyouweretroubleremix.html",
+        "I Know What I Want": "https://www.azlyrics.com/lyrics/taylorswift/iknowwhatiwant.html",
+        "I Used To Fly": "https://www.azlyrics.com/lyrics/taylorswift/iusedtofly.html",
+        "I Want You Back": "https://www.azlyrics.com/lyrics/taylorswift/iwantyouback.html",
+        "I Wished On A Plane": "https://www.azlyrics.com/lyrics/taylorswift/iwishedonaplane.html",
+        "I'd Lie": "https://www.azlyrics.com/lyrics/taylorswift/idlie.html",
+        "In The Pouring Rain": "https://www.azlyrics.com/lyrics/taylorswift/inthepouringrain.html",
+        "Just South Of Knowing Why": "https://www.azlyrics.com/lyrics/taylorswift/justsouthofknowingwhy.html",
+        "Let's Go (Battle)": "https://www.azlyrics.com/lyrics/taylorswift/letsgobattle.html",
+        "Live For The Little Things": "https://www.azlyrics.com/lyrics/taylorswift/liveforthelittlethings.html",
+        "Long Time Coming": "https://www.azlyrics.com/lyrics/taylorswift/longtimecoming.html",
+        "Look At You Like That": "https://www.azlyrics.com/lyrics/taylorswift/lookatyoulikethat.html",
+        "Love They Haven't Thought Of Yet": "https://www.azlyrics.com/lyrics/taylorswift/lovetheyhaventthoughtofyet.html",
+        "Love To Lose": "https://www.azlyrics.com/lyrics/taylorswift/lovetolose.html",
+        "Lover (First Dance Remix)": "https://www.azlyrics.com/lyrics/taylorswift/loverfirstdanceremix.html",
+        "Lover (Remix)": "https://www.azlyrics.com/lyrics/taylorswift/loverremix.html",
+        "Lucky You": "https://www.azlyrics.com/lyrics/taylorswift/luckyyou.html",
+        "Made Up You": "https://www.azlyrics.com/lyrics/taylorswift/madeupyou.html",
+        "Making Up For Lost Love": "https://www.azlyrics.com/lyrics/taylorswift/makingupforlostlove.html",
+        "Mandolin": "https://www.azlyrics.com/lyrics/taylorswift/mandolin.html",
+        "Matches": "https://www.azlyrics.com/lyrics/taylorswift/matches.html",
+        "Me And Britney": "https://www.azlyrics.com/lyrics/taylorswift/meandbritney.html",
+        "Monologue Song (La La La)": "https://www.azlyrics.com/lyrics/taylorswift/monologuesonglalala.html",
+        "My Cure": "https://www.azlyrics.com/lyrics/taylorswift/mycure.html",
+        "My Turn To Be Me": "https://www.azlyrics.com/lyrics/taylorswift/myturntobeme.html",
+        "Nashville": "https://www.azlyrics.com/lyrics/taylorswift/nashville.html",
+        "Need You Now": "https://www.azlyrics.com/lyrics/taylorswift/needyounow.html",
+        "Never Fade": "https://www.azlyrics.com/lyrics/taylorswift/neverfade.html",
+        "Nevermind": "https://www.azlyrics.com/lyrics/taylorswift/nevermind.html",
+        "One Thing": "https://www.azlyrics.com/lyrics/taylorswift/onething.html",
+        "One Way Ticket": "https://www.azlyrics.com/lyrics/taylorswift/onewayticket.html",
+        "Our Last Night": "https://www.azlyrics.com/lyrics/taylorswift/ourlastnight.html",
+        "Perfect Have I Loved": "https://www.azlyrics.com/lyrics/taylorswift/perfecthaveiloved.html",
+        "Permanent Marker": "https://www.azlyrics.com/lyrics/taylorswift/permanentmarker.html",
+        "Point Of View": "https://www.azlyrics.com/lyrics/taylorswift/pointofview.html",
+        "Revenge": "https://www.azlyrics.com/lyrics/taylorswift/revenge.html",
+        "Riptide": "https://www.azlyrics.com/lyrics/taylorswift/riptide.html",
+        "Ronan": "https://www.azlyrics.com/lyrics/taylorswift/ronan.html",
+        "Run": "https://www.azlyrics.com/lyrics/taylorswift/run.html",
+        "Safe and Sound": "https://www.azlyrics.com/lyrics/taylorswift/safeandsound.html",
+        "Same Girl": "https://www.azlyrics.com/lyrics/taylorswift/samegirl.html",
+        "September": "https://www.azlyrics.com/lyrics/taylorswift/september.html",
+        "Smokey Black Nights": "https://www.azlyrics.com/lyrics/taylorswift/smokeyblacknights.html",
+        "Spinning Around": "https://www.azlyrics.com/lyrics/taylorswift/spinningaround.html",
+        "Stupid Boy": "https://www.azlyrics.com/lyrics/taylorswift/stupidboy.html",
+        "Sugar": "https://www.azlyrics.com/lyrics/taylorswift/sugar.html",
+        "Sweet Escape": "https://www.azlyrics.com/lyrics/taylorswift/sweetescape.html",
+        "Sweet Tea And God's Graces": "https://www.azlyrics.com/lyrics/taylorswift/sweetteaandgodsgraces.html",
+        "Sweeter Than Fiction": "https://www.azlyrics.com/lyrics/taylorswift/sweeterthanfiction.html",
+        "Tell Me": "https://www.azlyrics.com/lyrics/taylorswift/tellme.html",
+        "Ten Dollars And A Six Pack": "https://www.azlyrics.com/lyrics/taylorswift/tendollarsandasixpack.html",
+        "Tennessee": "https://www.azlyrics.com/lyrics/taylorswift/tennessee.html",
+        "That's Life": "https://www.azlyrics.com/lyrics/taylorswift/thatslife.html",
+        "That's When": "https://www.azlyrics.com/lyrics/taylorswift/thatswhen.html",
+        "The Diary Of Me": "https://www.azlyrics.com/lyrics/taylorswift/thediaryofme.html",
+        "There's Your Trouble": "https://www.azlyrics.com/lyrics/taylorswift/theresyourtrouble.html",
+        "Thirteen Blocks (Can't Call It Love)": "https://www.azlyrics.com/lyrics/taylorswift/thirteenblockscantcallitlove.html",
+        "This Here Guitar": "https://www.azlyrics.com/lyrics/taylorswift/thishereguitar.html",
+        "This Is Really Happening": "https://www.azlyrics.com/lyrics/taylorswift/thisisreallyhappening.html",
+        "Thug Story": "https://www.azlyrics.com/lyrics/taylorswift/thugstory.html",
+        "Til Brad Pitt Comes Along": "https://www.azlyrics.com/lyrics/taylorswift/tilbradpittcomesalong.html",
+        "Today Was A Fairytale": "https://www.azlyrics.com/lyrics/taylorswift/todaywasafairytale.html",
+        "Under My Head": "https://www.azlyrics.com/lyrics/taylorswift/undermyhead.html",
+        "Viva La Vida": "https://www.azlyrics.com/lyrics/taylorswift/vivalavida.html",
+        "Wait For Me": "https://www.azlyrics.com/lyrics/taylorswift/waitforme.html",
+        "We Were Happy": "https://www.azlyrics.com/lyrics/taylorswift/wewerehappy.html",
+        "Welcome Distraction": "https://www.azlyrics.com/lyrics/taylorswift/welcomedistraction.html",
+        "What Do You Say": "https://www.azlyrics.com/lyrics/taylorswift/whatdoyousay.html",
+        "What To Wear": "https://www.azlyrics.com/lyrics/taylorswift/whattowear.html",
+        "Who I've Always Been": "https://www.azlyrics.com/lyrics/taylorswift/whoivealwaysbeen.html",
+        "Writing Songs About You": "https://www.azlyrics.com/lyrics/taylorswift/writingsongsaboutyou.html",
+        "You All Over Me": "https://www.azlyrics.com/lyrics/taylorswift/youalloverme.html",
+        "You Do": "https://www.azlyrics.com/lyrics/taylorswift/youdo.html",
+        "Your Anything": "https://www.azlyrics.com/lyrics/taylorswift/youranything.html",
+        "Your Face": "https://www.azlyrics.com/lyrics/taylorswift/yourface.html"
+    }
+}
